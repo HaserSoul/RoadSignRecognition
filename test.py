@@ -134,7 +134,7 @@ while True:
     cv2.putText(imgOrignal, "PROBABILITY: ", (20, 75), font, 0.75, (0, 0, 255), 2, cv2.LINE_AA)
     # PREDICT IMAGE
     predictions = model.predict(img)
-    classIndex = model.predict_classes(img)
+    classIndex = np.argmax(model.predict(img), axis=-1)
     probabilityValue =np.amax(predictions)
     if probabilityValue > threshold:
         #print(getCalssName(classIndex))
