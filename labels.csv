@@ -1,0 +1,78 @@
+ClassId;Name
+0;Ostry skret w prawo
+1;Ostry skret w lewo
+2;Ostry zakret w prawo a potem w lewo
+3;Ostry zakret w lewo a potem w prawo
+4;Droga podoprzadkowana z obu stron
+5;Droga podoprzadkowana z prawej strony
+6;Droga podoprzadkowana z lewej strony
+7;Wjazd z prawej strony
+8;Wjazd z lewej strony
+9;Ustap pierwszenstwa
+10;Uwaga rondo
+11;Wyboje
+12;Wyboj
+13;Zwezenie drogi
+14;Roboty drogowe
+15;Uwaga mozliwy poslizg
+16;Uwaga przejscie dla pieszych
+17;Uwaga dzieci
+18;Uwaga dzikie zwierzeta
+19;Uwaga droga dwukierunkowa
+20;Uwaga tramwaj
+21;Uwaga rowerzysci
+22;Uwaga sygnalizacja swietlna
+23;UWAGA
+24;Ryzyko oblodzenia
+25;Zakaz ruchu w obu kierunkach
+26;Zakaz wjazdu
+27;Zakaz ruchu ciezarowka
+28;Zakaz dla rowerow, ciagnikow, koni
+29;Zakaz koni
+30;Zakaz rowerow
+31;Ograniczenie do wagi
+32;Stop
+33;Zakaz skretu w lewo
+34;Zakaz skretu w prawo
+35;Zakaz wyprzedzania
+36;Zakaz wyprzedzania przez ciezarowki
+37;Koniec zakazu wyprzedzania
+38;Ograniczenie predkosci
+39;Koniec ograniczenia predkosci
+40;Zakaz zatrzymywania sie
+41;Zakaz ruchu pieszo
+42;Brak ograniczenia predkosci
+43;Ograniczenie calodobowe
+44;Koniec ograniczenia calodobowego
+45;Nakaz skretu w prawo
+46;Nakaz skretu w lewo
+47;Nakaz jazdy prosto
+48;Nakaz jazdy prosto lub w prawo
+49;Nakaz jazdy prosto lub w lewo
+50;nakaz jazdy z prawej strony
+51;nakaz jazdy z lewej strony
+52;Rondo
+53;Mozna rowerem
+54;Nie mozna rowerem
+55;Nie mozna rowerem ani z dzieckiem
+56;Mozna rowerem i z dzieckiem
+57;rodzic z dzieckiem
+58;Droga z pierwszenstwem
+59;Koniec drogi z pierwszenstwem
+60;Droga jednokierunkowa
+61;Droga bez wyjazdu prosto
+62;Droga bez wyjazdu w prawo
+63;Przejscie dla pieszych
+64;Przejscie dla pieszych i rowerow
+65;Droga ekspresowa
+66;Koniec drogi ekspresowej
+67;Autostrada
+68;Zwezenie drogi z lewej strony
+69;Przystanek autobusowy
+70;Parking
+71;Parking
+72;Szpital
+73;Stacja paliw
+74;LPG GAZ
+75;Budka telefoniczna
+76;Slupy wysokiego napiecia
