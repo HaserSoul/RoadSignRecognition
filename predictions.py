@@ -8,5 +8,9 @@ def get_class_name(class_nr):
 
     return str(mydict[class_nr])
 
+red_blue_signs_nrs = [str(i) for i in range(25, 77) if i != 58]
+
+yellow_orange_signs_nrs = [str(i) for i in range(0, 25)]+['58']
+
 if __name__ == "__main__":
-    print(get_class_name('70'))
+    print(red_blue_signs_nrs)
